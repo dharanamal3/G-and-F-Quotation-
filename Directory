@@ -1,0 +1,31 @@
+GrillsAndFlamesQuotationGenerator/
+├── app/
+│   ├── src/
+│   │   ├── main/
+│   │   │   ├── java/
+│   │   │   │   └── com/
+│   │   │   │       └── grillsandflames/
+│   │   │   │           └── quotationgenerator/
+│   │   │   │               ├── MainActivity.kt
+│   │   │   │               ├── Product.kt
+│   │   │   │               ├── QuotationGenerator.kt
+│   │   │   │               ├── CustomerForm.kt
+│   │   │   │               ├── ProductItem.kt
+│   │   │   │               └── ui/
+│   │   │   │                   └── theme/
+│   │   │   │                       ├── Color.kt
+│   │   │   │                       ├── Theme.kt
+│   │   │   │                       └── Type.kt
+│   │   │   ├── res/
+│   │   │   │   ├── values/
+│   │   │   │   │   ├── themes.xml
+│   │   │   │   │   └── colors.xml
+│   │   │   │   └── mipmap/
+│   │   │   │       ├── ic_launcher.png
+│   │   │   │       └── ic_launcher_round.png
+│   │   │   └── AndroidManifest.xml
+│   ├── build.gradle
+│   └── proguard-rules.pro
+├── build.gradle
+├── settings.gradle
+└── README.md
